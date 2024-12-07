@@ -59,6 +59,3 @@
 
 لتشغيل المشروع على جهازك، اتبع الخطوات التالية:
 
-1. **تحميل المشروع باستخدام Git**:
-   ```bash
-   git clone https://github.com/your-username/your-project-repo.git
